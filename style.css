@@ -58,8 +58,10 @@ img {
 }
 
 .link {
-  width: 80%;
   display: flex;
-  justify-content: space-between;
-  margin: 25px;
+  justify-content: center;
+}
+
+.link div {
+  margin: 0 10px;
 }
