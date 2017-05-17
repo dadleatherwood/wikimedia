@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.intro {
+  text-align: justify;
+  vertical-align: top;
+  width: 70%;
+  font-size: 150%;
+  margin: 0 auto;
+  padding: 30px;
+  font-family: sans-serif;
+}
+
+span {
+  font-weight: bold;
+}
+
+#welcome {
+  text-align: right;
+}
