@@ -63,5 +63,6 @@ img {
 }
 
 .link div {
-  margin: 0 10px;
+  margin: 10px;
+  text-decoration: none;
 }
